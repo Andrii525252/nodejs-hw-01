@@ -8,11 +8,11 @@ export const addOneContact = async () => {
 
     const newContact = createFakeContact();
 
-    const updatedContacts = [...contacts, ...newContact];
+    const updatedContacts = [...contacts, newContact];
 
     await writeContacts(updatedContacts);
 
-    console.log(`Add one contacts`);
+    console.log(`Add one contact`);
   } catch (error) {
     console.error('Generate contacts error', error);
     throw error;
