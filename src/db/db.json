@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "242cbbe6-1977-47e3-a7ad-c1b8515fdbea",
+    "name": "Roland Quitzon",
+    "phone": "213-369-4908",
+    "email": "Marshall.Bechtelar@yahoo.com",
+    "job": "District Interactions Technician"
+  },
+  {
+    "id": "24aca29a-4923-4e02-9646-9b4872552828",
+    "name": "Dr. Edwin Bergstrom",
+    "phone": "217-555-9011",
+    "email": "Savanah_Erdman@gmail.com",
+    "job": "Human Program Associate"
+  },
+  {
+    "id": "e107e069-a5aa-47df-81be-ba2f4b334661",
+    "name": "Molly Ziemann PhD",
+    "phone": "211-342-6221 x708",
+    "email": "Verla46@hotmail.com",
+    "job": "Lead Research Designer"
+  },
+  {
+    "id": "f28dc8ea-e55d-4b07-85ee-77a5002cfd21",
+    "name": "Susan Rempel Sr.",
+    "phone": "911.395.1088 x145",
+    "email": "Emma31@gmail.com",
+    "job": "Global Marketing Executive"
+  },
+  {
+    "id": "66e116d6-40d5-4c5a-abb3-25f94ef617f6",
+    "name": "Leonard Brakus",
+    "phone": "(654) 602-7483 x468",
+    "email": "Shyann_Dooley57@hotmail.com",
+    "job": "Chief Brand Planner"
+  }
+]
